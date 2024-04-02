@@ -1,44 +1,45 @@
 ## Backend Developer & Data Science
+Hi 👋 I am former backend developer and current graduate school student studying on data science.
+I love studying and learning new languages and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-### Skills
+
+## 👨‍💻 Skills
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 
-NodeJS React Next.js FastAPI Django Flask
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 
-Postgres MySQL Oracle BigQuery Redis
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=Google BigQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
 
-GCP AWS
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-### Academic Background
-- Seoul National University. Department of Electrical & Computer Engineering (2017.03 ~ 2024.02)
-- Seoul National University. Graduate School of Data Science (2024.03 ~ 2026.02)
+## 🎓 Academic Background
 
-### Career:
-- Gamespring: Server Developer for Mobile Casino Game (2020.08 ~ 2022.02)
-  - Avatar detection system for advertisement image
-  - Main developer for Texas Holdem server
-  - Backoffice system
+- **Seoul National University, Department of Electrical & Computer Engineering**
+  - Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
 
-- Ridi corp.: Backend Developer for Global Webtoon Service 'Manta' (2022.02 ~ 2024.01)
-  - Backend & Devops development for service
-  - Database optimization
-  - Web-next service development (Frontend)
-  - Web GDPR Cookie
+- **Seoul National University, Graduate School of Data Science**
+  - Master's Degree, March 2024 - February 2026
 
+## 💼 Career
 
+### Gamespring: Server Developer (Mobile Casino Game)
 
-<!--
-**Jinwook-Yang/Jinwook-Yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Period**: August 2020 - February 2022
+- **Responsibilities**:
+  - Developed an avatar detection system for advertisement imagery.
+  - Served as the main developer for the Texas Holdem server.
+  - Implemented and maintained the backoffice system by nodeJS and jQuery.
+  - Improved database performance by reducing queries and server logic.
 
-Here are some ideas to get you started:
+### Ridi Corp.: Backend Developer (Global Webtoon Service 'Manta')
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Period**: February 2022 - January 2024
+- **Responsibilities**:
+  - Engaged in backend and DevOps development to enhance service reliability and performance.
+  - Performed database optimization to ensure efficient data retrieval and server stabilization.
+  - Contributed to the development of the new web service based on next.js.
+  - Implemented Web GDPR Cookie compliance measures to ensure user privacy and data protection on web site.
+  - Implemented recommendation system for webtoon based on ML pipeline.
+
