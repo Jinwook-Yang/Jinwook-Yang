@@ -1,6 +1,9 @@
 ## Backend Developer & Data Science
 Hi 👋 I am former backend developer and current graduate school student studying on data science.
+
 I love studying and learning new languages and have interest on stabilizing web servers by reducing DB queries and API calls.
+
+I am currently studying on data science and aim to be a professional on Recommendation System.
 
 
 ## 👨‍💻 Skills
@@ -16,11 +19,11 @@ I love studying and learning new languages and have interest on stabilizing web 
 
 ## 🎓 Academic Background
 
-- **Seoul National University, Department of Electrical & Computer Engineering**
-  - Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
+### Seoul National University, Department of Electrical & Computer Engineering
+- Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
 
-- **Seoul National University, Graduate School of Data Science**
-  - Master's Degree, March 2024 - February 2026
+### Seoul National University, Graduate School of Data Science
+- Master's Degree, March 2024 - February 2026
 
 ## 💼 Career
 
