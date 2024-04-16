@@ -42,7 +42,15 @@ I am currently studying on data science and aim to be a professional on Recommen
 - **Responsibilities**:
   - Engaged in backend and DevOps development to enhance service reliability and performance.
   - Performed database optimization to ensure efficient data retrieval and server stabilization.
-  - Contributed to the development of the new web service based on next.js.
+  - Contributed to the development of the new web service based on next.js. 
   - Implemented Web GDPR Cookie compliance measures to ensure user privacy and data protection on web site.
   - Implemented recommendation system for webtoon based on ML pipeline.
+
+### Pensiv: Project Team Engineer (DL based project team)
+
+- **Period**: May 2022 - November 2024
+- **Responsibilities**:
+  - Create ML data pipeline and crawling server for online video and image datasets.
+  - Configuration setting for ML development server and data storage server.
+  - Frontend development for the ML based video summarization task.
 
