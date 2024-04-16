@@ -48,7 +48,7 @@ I am currently studying on data science and aim to be a professional on Recommen
 
 ### Pensiv: Project Team Engineer (DL based project team)
 
-- **Period**: May 2022 - November 2024
+- **Period**: May 2022 - November 2022
 - **Responsibilities**:
   - Create ML data pipeline and crawling server for online video and image datasets.
   - Configuration setting for ML development server and data storage server.
