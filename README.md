@@ -21,6 +21,7 @@ I am currently studying on data science and aim to be a professional on Learning
 
 ### Seoul National University, Department of Electrical & Computer Engineering
 - Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
+- Main Study on Computing, Reinforecment Learning, Machine Learning and HCI.
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
