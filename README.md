@@ -3,7 +3,7 @@ Hi 👋 I am former backend developer and current graduate school student studyi
 
 I love studying and learning new languages and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-I am currently studying on data science and aim to be a professional on Recommendation System.
+I am currently studying on data science and aim to be a professional on Learning or Data management system.
 
 
 ## 👨‍💻 Skills
