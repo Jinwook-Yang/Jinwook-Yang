@@ -1,13 +1,13 @@
 ## Backend Developer & Data Science
 Hi 👋 I am former backend developer and current graduate school student studying on data science.
 
-I love studying and learning new languages and have interest on stabilizing web servers by reducing DB queries and API calls.
+I love studying and learning new languages via peer review and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-I am currently studying on data science and aim to be a professional on Learning or Data management system.
+I am currently studying on data science and aim to be a professional on Machine Learning or Data management system.
 
 
 ## 👨‍💻 Skills
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 
@@ -21,12 +21,23 @@ I am currently studying on data science and aim to be a professional on Learning
 
 ### Seoul National University, Department of Electrical & Computer Engineering
 - Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
-- Main Study on Computing, Reinforecment Learning, Machine Learning and HCI.
+- Main Study on Computing and Machine Learning.
+- Participated on project based classes.
+    - Machine Learning Fundamentals & Applications: Recognition of CAPTCHA characters by LSTM and CNN
+    - Cyber Security and Blockchain: Simple smart contract by using Ethereum and Solidity
+    - Human Computer Interaction: GPT based question generating system for exams (API and Frontend)
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
 
 ## 💼 Career
+
+### LG Display: Intern (OLED SLB TDR)
+
+- **Period**: July 2019 - August 2019
+- **Responsibilities**:
+  - Implement the basic operation of OLED through Verilog.
+  - Learning lossless compression algorithms for 4K video transmission and reception.
 
 ### Gamespring: Server Developer (Mobile Casino Game)
 
@@ -51,7 +62,7 @@ I am currently studying on data science and aim to be a professional on Learning
 
 - **Period**: May 2022 - November 2022
 - **Responsibilities**:
-  - Create ML data pipeline and crawling server for online video and image datasets.
-  - Configuration setting for ML development server and data storage server.
-  - Frontend development for the ML based video summarization task.
+  - Create DL data pipeline and crawling server for online video and image datasets.
+  - Configuration setting for DL development server and data storage server.
+  - Frontend development for the DL based video summarization task.
 
