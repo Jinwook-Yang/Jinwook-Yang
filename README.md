@@ -32,14 +32,14 @@ I am currently studying on data science and aim to be a professional on Machine 
 
 ## 💼 Career
 
-### LG Display: Intern (OLED SLB TDR)
+### LG Display: OLED SLB TDR Intern (OLED functionality enhancing team)
 
 - **Period**: July 2019 - August 2019
 - **Responsibilities**:
   - Implement the basic operation of OLED through Verilog.
   - Learning lossless compression algorithms for 4K video transmission and reception.
 
-### Gamespring: Server Developer (Mobile Casino Game)
+### Gamespring: Server Developer (Mobile Casino Game Development)
 
 - **Period**: August 2020 - February 2022
 - **Responsibilities**:
