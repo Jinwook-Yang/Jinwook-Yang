@@ -25,7 +25,7 @@ I am currently studying on data science and aim to be a professional on Machine 
 - Participated on project based classes.
     - Machine Learning Fundamentals & Applications: Recognition of CAPTCHA characters by LSTM and CNN
     - Cyber Security and Blockchain: Simple smart contract by using Ethereum and Solidity
-    - Human Computer Interaction: GPT based question generating system for exams (API and Frontend)
+    - Human Computer Interaction: Chat-GPT API based question and answer generating system for exams using script created by STT.
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
