@@ -29,6 +29,8 @@ I am currently studying on data science and aim to be a professional on Machine 
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
+- Participated on project based classes.
+    - Big Data and Knowledge Management System: Simple backend service for movie recommendation based on vector DB
 
 ## 💼 Career
 
