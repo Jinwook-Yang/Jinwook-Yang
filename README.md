@@ -3,7 +3,7 @@ Hi 👋 I am former backend developer and current graduate school student studyi
 
 I love studying and learning new languages via peer review and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-I am currently studying on data science and aim to be a professional on Machine Learning or Data management system.
+I am currently studying on data science and compilors for deep learning architectures and aim to be professional on deep learning accelerator.
 
 
 ## 👨‍💻 Skills
@@ -29,8 +29,10 @@ I am currently studying on data science and aim to be a professional on Machine 
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
+- Prof. Hyojin Sung 's lab (https://hsung.snu.ac.kr/)
 - Participated on project based classes.
     - Big Data and Knowledge Management System: Simple backend service for movie recommendation based on vector DB
+    - Machine Learning for Visual Understanding: Video summarization technique using Deep Learning
 
 ## 💼 Career
 
@@ -68,3 +70,6 @@ I am currently studying on data science and aim to be a professional on Machine 
   - Configuration setting for DL development server and data storage server.
   - Frontend development for the DL based video summarization task.
 
+## 📞 Contact
+- jimy1998@snu.ac.kr
+- jimy1998@naver.com
