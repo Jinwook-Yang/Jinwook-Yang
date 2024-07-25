@@ -1,4 +1,4 @@
-## Backend Developer & Data Science
+## Backend Developer & Data Science Graduate School Student
 Hi 👋 I am former backend developer and current graduate school student studying on data science.
 
 I love studying and learning new languages via peer review and have interest on stabilizing web servers by reducing DB queries and API calls.
@@ -29,7 +29,7 @@ I am currently studying on data science and compilors for deep learning architec
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
-- Prof. Hyojin Sung 's lab (https://hsung.snu.ac.kr/)
+- Prof. Hyojin Sung 's lab (https://codelab.postech.ac.kr/)
 - Participated on project based classes.
     - Big Data and Knowledge Management System: Simple backend service for movie recommendation based on vector DB
     - Machine Learning for Visual Understanding: Video summarization technique using Deep Learning
