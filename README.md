@@ -23,16 +23,17 @@ I am currently studying on data science and compilors for deep learning architec
 - Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
 - Main Study on Computing and Machine Learning.
 - Participated on project based classes.
-    - Machine Learning Fundamentals & Applications: Recognition of CAPTCHA characters by LSTM and CNN
-    - Cyber Security and Blockchain: Simple smart contract by using Ethereum and Solidity
-    - Human Computer Interaction: Chat-GPT API based question and answer generating system for exams using script created by STT.
+    - Machine Learning Fundamentals & Applications: Recognition of CAPTCHA characters by LSTM and CNN (Tensorflow)
+    - Cyber Security and Blockchain: Simple smart contract by using Ethereum and Solidity (Solidity, Javascript)
+    - Human Computer Interaction: Chat-GPT API based question and answer generating system for exams using script created by STT (NodeJS Backend, React Frontend)
 
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
-- Prof. Hyojin Sung 's lab (https://codelab.postech.ac.kr/)
+- Prof. Hyojin Sung 's lab (Computing Optimization and Data-driven Exploration Lab) (https://codelab.snu.ac.kr/)
 - Participated on project based classes.
     - Big Data and Knowledge Management System: Simple backend service for movie recommendation based on vector DB
     - Machine Learning for Visual Understanding: Video summarization technique using Deep Learning
+    - Machine Learning for System: LLVM-IR compiling optimization system with clustering and embedding by instruction count
 
 ## 💼 Career
 
