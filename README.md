@@ -3,7 +3,7 @@ Hi 👋 I am former backend developer and current graduate school student studyi
 
 I love studying and learning new languages via peer review and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-I am currently studying on data science and compilors for deep learning architectures, and aim to be professional on deep learning accelerator.
+I am currently studying on graduate school of data science at SNU and compilors for deep learning architectures, and aim to be professional on deep learning accelerator based on PIM (processing in memory).
 
 
 ## 👨‍💻 Skills
@@ -70,6 +70,10 @@ I am currently studying on data science and compilors for deep learning architec
   - Create DL data pipeline and crawling server for online video and image datasets.
   - Configuration setting for DL development server and data storage server.
   - Frontend development for the DL based video summarization task.
+
+
+![Jinwook-Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwook-Yang&count_private=true)
+
 
 ## 📞 Contact
 - jimy1998@snu.ac.kr
