@@ -3,7 +3,7 @@ Hi 👋 I am former backend developer and current graduate school student studyi
 
 I love studying and learning new languages via peer review and have interest on stabilizing web servers by reducing DB queries and API calls.
 
-I am currently studying on graduate school of data science at SNU and compilors for deep learning architectures, and aim to be professional on deep learning accelerator based on PIM (processing in memory).
+I am currently studying on graduate school of data science at SNU about compilers for deep learning architectures, and aim to be professional on deep learning accelerator based on PIM (processing in memory).
 
 
 ## 👨‍💻 Skills
