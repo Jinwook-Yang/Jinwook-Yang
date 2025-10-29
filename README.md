@@ -6,21 +6,56 @@ I love studying and learning new languages via peer review and have interest on 
 I am currently studying on graduate school of data science at SNU about compilers for deep learning architectures, and aim to be professional on deep learning accelerator based on PIM (processing in memory).
 
 
-## 👨‍💻 Skills
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> 
+## 👨‍💻 Skills - Languages & Tools
+**Level 5 – Production & Ownership**
+- **Javascript(Node.js) / TypeScript**  
+  - Can configure backend API services and backoffice systems for production web services
+  - Service reliability work (monitoring, performance tuning)
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+- **Python**  
+  - Can configure ML / data pipelines, automation and experimentation tooling for research systems
+  - Can configure backend service and database system using FastAPI or Flask.
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=Google BigQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> 
+- **SQL / DB tuning**
+  - Query optimization and performance stabilization in production services
+  - Main skill on PostgreSQL and MySQL
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+**Level 4 – Systems / Performance Work**
+- **C / C++ / LLVM IR**  
+  - LLVM IR–level optimization experiments using pass pipelines, instruction counting, and clustering  
+  - Low-level performance reasoning and code size reduction work  
+  - Understanding of compiler passes / IR transformations
+  - C++ based HW simulator tuning & experiments
 
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+- **Bash / Infra / DevOps**  
+  - Automated service deployment, environment setup for API / deep learning servers
+  - Server monitoring / reliability work for production services
+  - Docker, k8s based deployment setup with cloud services including GCP and AWS.
+
+- **Frontend: React / Next.js / jQuery**  
+  - Web frontend development for internal tools and consumer-facing services
+  - Implementation of internal back office service based on jQuery
+  - Implementation of external web-service or prototype services based on React / Next.js
+
+**Level 3 – Service Prototyping / End-to-End Feature Delivery**
+- **CUDA / Parallel Workloads**  
+  - GPU-oriented acceleration and data-parallel pipelines for ML workloads
+  - Building data pipelines for deep learning training/inference at scale
+
+**Level 2 – Hardware / Low-level Interface**
+- **Verilog**  
+  - OLED functional block prototyping (display pipeline behavior, compression path exploration)  
+  - Exposure to datapath design and bandwidth constraints
+
+**Level 1 – Currently Exploring**
+- **Go (interest level)**  
+  - Comfortable reading codebases / services 
+  - Able to extend simple features, currently studying for language extension
 
 ## 🎓 Academic Background
 
 ### Seoul National University, Department of Electrical & Computer Engineering
-- Bachelor's Degree by Reinforcement Learning on Recommendation System, March 2017 - February 2024
+- Bachelor's Degree by Reinforcement Learning with Actor-Critic Algorithm on Recommendation System, March 2017 - February 2024
 - Main Study on Computing and Machine Learning.
 - Participated on project based classes.
     - Machine Learning Fundamentals & Applications: Recognition of CAPTCHA characters by LSTM and CNN (Tensorflow)
@@ -30,10 +65,16 @@ I am currently studying on graduate school of data science at SNU about compiler
 ### Seoul National University, Graduate School of Data Science
 - Master's Degree, March 2024 - February 2026
 - Prof. Hyojin Sung 's lab (Computing Optimization and Data-driven Exploration Lab) (https://codelab.snu.ac.kr/)
+- Main researches:
+    - RAG optimization based on PIM: Accelerating RAG algorithms based on Processing-In-Memory architecture
+    - LLVM-IR optimization: DL model & system for code size reduction acceleration based on near-zero search
+    - Common library development for accelerators
 - Participated on project based classes.
     - Big Data and Knowledge Management System: Simple backend service for movie recommendation based on vector DB
-    - Machine Learning for Visual Understanding: Video summarization technique using Deep Learning
+    - Machine Learning for Visual Understanding: Video summarization technique using generator model
     - Machine Learning for System: LLVM-IR compiling optimization system with clustering and embedding by instruction count
+    - Projects for Data Science: Customizable RAG based LLM chat-bot application for language learning and document search
+        - Main engineer: React based Frontend, Flask based Backend, Postgres based DB design & devlopment
 
 ## 💼 Career
 
